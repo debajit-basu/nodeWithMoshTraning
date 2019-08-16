@@ -1,0 +1,26 @@
+{
+  "name": "nodewithmosh",
+  "version": "1.0.0",
+  "description": "it is a node basic project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debajit-basu/nodeWithMoshTraning.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "debajit basu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debajit-basu/nodeWithMoshTraning/issues"
+  },
+  "homepage": "https://github.com/debajit-basu/nodeWithMoshTraning#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
